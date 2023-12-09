@@ -21,6 +21,7 @@ namespace Tyuiu.MotorovaDD.Sprint6.Task7.V16
             openFileDialog_MDD.Filter = "Значения, разделенные запятыми(*.csv)|*.csv|Всефайлы(*.*)|*.*";
             saveFileDialog_MDD.Filter = "Значения, разделенные запятыми(*.csv)|*.csv|Всефайлы(*.*)|*.*";
         }
+
         static string openFile;
         static int rows;
         static int columns;
